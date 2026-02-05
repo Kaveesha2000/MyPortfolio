@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Kaveesha2000/MyPortfolio/static/css/main.6c755417.css",
+    "main.js": "/Kaveesha2000/MyPortfolio/static/js/main.e837dbb4.js",
+    "static/js/453.15a626a8.chunk.js": "/Kaveesha2000/MyPortfolio/static/js/453.15a626a8.chunk.js",
+    "static/media/Profilepic.jpg": "/Kaveesha2000/MyPortfolio/static/media/Profilepic.e4833cc3dea57621f5d9.jpg",
+    "index.html": "/Kaveesha2000/MyPortfolio/index.html",
+    "main.6c755417.css.map": "/Kaveesha2000/MyPortfolio/static/css/main.6c755417.css.map",
+    "main.e837dbb4.js.map": "/Kaveesha2000/MyPortfolio/static/js/main.e837dbb4.js.map",
+    "453.15a626a8.chunk.js.map": "/Kaveesha2000/MyPortfolio/static/js/453.15a626a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c755417.css",
+    "static/js/main.e837dbb4.js"
+  ]
+}

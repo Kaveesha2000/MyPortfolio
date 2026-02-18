@@ -60,6 +60,6 @@ _For full list, check the Projects section on my portfolio site._
 
 This project is built using **React** with **Tailwind CSS** and deployed to **GitHub Pages**.
 
-    ```bash
-    npm run build
-    npm run deploy
+```bash
+npm run build
+npm run deploy

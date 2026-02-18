@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Kaveesha Sanduni Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal portfolio website!  
+This portfolio showcases my work as an **Associate Software Engineer** and **Technical Blogger**, featuring projects, skills, and ways to contact me.
 
-## Available Scripts
+[View Live Site](https://kaveesha2000.github.io/MyPortfolio/)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🧑‍💻 About Me
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Hi, I’m **Kaveesha Sanduni** – I love building scalable, enterprise-grade applications and writing about technical topics on [Medium](https://medium.com/@kaveeshasanduni200066).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 🔹 **Role:** Associate Software Engineer  
+- 🔹 **Focus:** Backend, Full-stack development, CI/CD, Microservices  
+- 🔹 **Tech Stack:** Java, Spring Boot, Hibernate, React, Angular, MySQL, Oracle, MongoDB, Docker, Git
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💼 Projects
 
-### `npm run build`
+Some highlights from my portfolio:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. **PayTect – Card Management System**  
+   - Oracle, Spring Boot, Java 11, MySQL, React  
+   - Developed a comprehensive card management solution for banking clients.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. **Kasi Wasi – Loyalty Point Redeemable System**  
+   - Spring Boot, React, Oracle  
+   - Customer loyalty platform enabling point accumulation and redemption.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. **Life Insurance Quotation System**  
+   - Spring Boot, Hibernate, Angular, MySQL  
+   - Quotation system for proposals and premium calculations.
 
-### `npm run eject`
+_For full list, check the Projects section on my portfolio site._
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🛠 Skills
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Java, JavaScript, TypeScript  
+- Spring Boot, Hibernate, JPA  
+- RESTful API Development, OAuth2  
+- React, Angular, HTML/CSS  
+- MySQL, Oracle, MongoDB, PostgreSQL  
+- Docker (Basic), Git, Maven, Swagger, SonarQube  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 📫 Contact Me
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Email:** [kaveeshasanduni200066@gmail.com](mailto:kaveeshasanduni200066@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/kaveesha-sanduni-358561201](https://www.linkedin.com/in/kaveesha-sanduni-358561201/)  
+- **GitHub:** [github.com/Kaveesha2000](https://github.com/Kaveesha2000)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## ⚡ Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This project is built using **React** with **Tailwind CSS** and deployed to **GitHub Pages**.
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    ```bash
+    npm run build
+    npm run deploy
